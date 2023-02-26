@@ -5,8 +5,6 @@ from tensorflow.keras.layers import Flatten, Conv2D, Activation, Dense, Dropout,
 from tensorflow.keras import models
 from flask import Flask, render_template, redirect, request, url_for, send_file
 from flask import jsonify, json
-from PIL import Image
-from flask import Flask, request, render_template, jsonify
 from tensorflow.keras.preprocessing.image import img_to_array
 from keras.models import load_model
 import numpy as np
