@@ -1,4 +1,4 @@
-python==3.10.1
+
 Flask==2.2.2
 os-sys==2.1.4
 keras==2.10.0
@@ -15,10 +15,6 @@ Pillow==9.2.0
 scikit-learn==1.1.2
 sklearn==0.0
 simplejson==3.17.6
-tensorflow==2.10.0
-tensorflow-estimator==2.10.0
-tensorflow-gpu==2.10.1
-tensorflow-hub==0.12.0
-tensorflow-io-gcs-filesystem==0.27.0
+tensorflow==2.7.0
 Werkzeug==2.2.2
 
