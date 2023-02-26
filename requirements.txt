@@ -1,5 +1,5 @@
 Flask==2.2.2
-keras==2.10.0
+keras==2.8.0
 requests==2.28.1
 cv==1.0.0
 numpy==1.23.3
